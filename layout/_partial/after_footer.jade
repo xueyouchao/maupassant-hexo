@@ -77,3 +77,8 @@ if page.mathjax2
 
 script(type='text/javascript', src=url_for(theme.js) + '/codeblock-resizer.js' + '?v=' + theme.version)
 script(type='text/javascript', src=url_for(theme.js) + '/smartresize.js' + '?v=' + theme.version)
+link(rel='stylesheet', type='text/css', href='//cdn.bootcss.com/highlight.js/9.2.0/styles/solarized-dark.min.css')
+link(rel='stylesheet', type='text/css', href=url_for(theme.css) + '/codehighlight.css' + '?v=' + theme.version)
+script(type='text/javascript', src='//cdn.bootcss.com/highlight.js/9.2.0/highlight.min.js')
+script(type='text/javascript', src=url_for(theme.js) + '/highlightcode.js' + '?v=' + theme.version)
+
