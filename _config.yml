@@ -38,7 +38,7 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: Chao's Old Blog
+  - title: Youchao's Old Blog
     url: http://youchaosdevelopment.blogspot.com/2009/03/few-videos-show-my-editor.html
 
 layout: timeline
