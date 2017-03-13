@@ -21,7 +21,7 @@ menu:
     directory: archives/
     icon: fa-archive
   - page: about
-    directory: about/
+    directory: about/resume.html
     icon: fa-user
   - page: rss
     directory: atom.xml
