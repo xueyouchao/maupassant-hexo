@@ -27,7 +27,7 @@ menu:
     directory: atom.xml
     icon: fa-rss
     Rss: /atom.xml
-    About: /about
+    About: /about/resume.html
 
 widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts, rencent_comments and links.
   - search
