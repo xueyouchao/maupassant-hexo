@@ -21,13 +21,13 @@ menu:
     directory: archives/
     icon: fa-archive
   - page: about
-    directory: about/resume.html
+    directory: about/resume.pdf
     icon: fa-user
   - page: rss
     directory: atom.xml
     icon: fa-rss
     Rss: /atom.xml
-    About: /about/resume.html
+    About: /about/resume.pdf
 
 widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts, rencent_comments and links.
   - search
